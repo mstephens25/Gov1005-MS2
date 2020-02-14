@@ -1,0 +1,19 @@
+---
+title: "MS2.Rmd"
+author: "Mark Stephens"
+date: "2/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Pros/Cons of Anan Hafez's project: Analysis of 3-pointers in the NBA
+
+Anan's homepage is a great introduction for the viewer, giving context to why he even bothered with the specific subject of basketball and three pointers.  Along with the significance of basketball in Anan's life, an example video of Steph Curry shooting threes also gets the viewer excited about the data (especially if you are a Warriors fan).  Anan's four core data analyses are connected and flow together very well.  Anan begins with historical data of the growth of the three pointer and then explains these trends.  The last two data analyses, team usage and effect on salaries, provide a tangible effect of the data trends presented previously.  One potential pitfall in Anan's data I noticed was in the specifics of his graphs and the data trends they were illustrating.  In the section that explains the growth of threes in professional basketball, Anan uses only data on Steph Curry's 2015-2016 season.  Although Steph Curry is famous for his three-point shot, these trends of efficiency and accuracy are very specific to Curry.  It's possible that these trends are more widespread but it is not shown in the project.
+
+## Pros/Cons of Jake Schoneberger's project: Unclaimed Property
+
+Jake also does a great job of introducing the viewer to his topic, specifically through an interesting hexagonal map showing unclaimed property per capita by state.  The data visualizations are definitely a strength of Jake's analysis.  Jake's section on unclaimed property in California is visualized with an extensive web-like structure.  With that being said, there are also negatives to unorthodox data visualizations like this one.  This web attempts to put together the trends of 1,000,000 California state records, causing the web to become rather cluttered.  Although the web looks interesting and unique, it might not be the best choice for presenting the data specific to this project.

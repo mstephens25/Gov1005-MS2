@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Github: https://github.com/mstephens25/Gov1005-MS2
+
 
 ## Pros/Cons of Anan Hafez's project: Analysis of 3-pointers in the NBA
 
